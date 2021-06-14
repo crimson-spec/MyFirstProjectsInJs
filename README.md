@@ -1,4 +1,4 @@
 # MyFirstProjectsInJs
 
-## NodeJS was used to tests al archives
-* All archives are working 100%
+## NodeJS was used to tests all archives
+* All archives was done to practice js sintaxe
